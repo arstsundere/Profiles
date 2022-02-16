@@ -1,6 +1,10 @@
 ## 自用，fork自iEwha
+
 - 感谢大佬，如有侵权即刻删除
+
+
 ### 说明:
+
 - QuantumultX、Surge，搬运的图标&脚本.
 - 所有脚本均来自其他作者库.
 - 不维护脚本.
@@ -13,60 +17,6 @@
     https://raw.githubusercontent.com/arstsundere/Profiles/master/QuantumultX/Ars_QuantumultX_Final.conf
      
    - 删除了策略组（个人没需求）等部分，简化
-
-### 部分模块和复写：
-
-<details> 
-<summary>Surge模块</summary>
-
-* BiliBili 净化和换区
-   ``` bash
-   https://raw.githubusercontent.com/iEwha/Profiles/master/Surge/Bilibili.sgmodule
-* 抖音净化
-   ``` bash
-   https://raw.githubusercontent.com/iEwha/Profiles/master/Surge/Aweme.sgmodule
-* TikTok解锁
-   ``` bash
-   https://raw.githubusercontent.com/iEwha/Profiles/master/Surge/TikTok_JP.sgmodule
-* YouTube去广告
-   ``` bash
-  https://raw.githubusercontent.com/iEwha/Profiles/master/Surge/YouTubeAds.sgmodule
-* 全能搜索
-   ``` bash
-   https://raw.githubusercontent.com/iEwha/Profiles/master/Surge/Q_Search.sgmodule
-* 功能解锁
-   ``` bash
-   https://raw.githubusercontent.com/iEwha/Profiles/master/Surge/Unlock.sgmodule
-* 其他
-   ``` bash
-   https://raw.githubusercontent.com/iEwha/Profiles/master/Surge/Script.sgmodule
-</details> 
-
-<details> 
-<summary>QuantumultX复写</summary>
-
-* BiliBili 净化和换区
-   ``` bash
-  https://raw.githubusercontent.com/iEwha/Profiles/master/QuantumultX/Rewrite/bilibili.conf
-* 抖音净化
-   ``` bash
-   https://raw.githubusercontent.com/iEwha/Profiles/master/QuantumultX/Rewrite/douyin.conf 
-* TikTok解锁 
-   ``` bash
-   https://raw.githubusercontent.com/iEwha/Profiles/master/QuantumultX/Rewrite/TikTok_JP.conf
-* YouTube去广告 
-   ``` bash
-   https://raw.githubusercontent.com/iEwha/Profiles/master/QuantumultX/Rewrite/YouTubeAds.conf
-* 全能搜索 
-   ``` bash
-   https://raw.githubusercontent.com/iEwha/Profiles/master/QuantumultX/Rewrite/Q_Search.conf
-* 功能解锁 
-   ``` bash
-   https://raw.githubusercontent.com/iEwha/Profiles/master/QuantumultX/Rewrite/UnlockApp.conf 
-* 其他 
-   ``` bash
-   https://raw.githubusercontent.com/iEwha/Profiles/master/QuantumultX/Rewrite/others.conf
-</details>
 
 ### 感谢:
 
