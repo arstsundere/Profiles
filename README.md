@@ -1,17 +1,20 @@
-# 自用，fork自iEwha，感谢大佬
-## 说明:
+## 自用，fork自iEwha
+- 感谢大佬，如有侵权即刻删除
+### 说明:
 - QuantumultX、Surge，搬运的图标&脚本.
 - 所有脚本均来自其他作者库.
 - 不维护脚本.
 - iEwha对任何脚本问题和使用后果不承担任何责任.
 
-## 自用配置：
+### 自用配置：
 
 * *QuantumultX*
     ``` bash
     https://raw.githubusercontent.com/arstsundere/Profiles/master/QuantumultX/Ars_QuantumultX_Final.conf
+     
+   - 删除了策略组（个人没需求）等部分，简化
 
-## 部分模块和复写：
+### 部分模块和复写：
 
 <details> 
 <summary>Surge模块</summary>
@@ -65,7 +68,7 @@
    https://raw.githubusercontent.com/iEwha/Profiles/master/QuantumultX/Rewrite/others.conf
 </details>
 
-## 感谢:
+### 感谢:
 
 - 致谢以下作者库，排名不分先后
 * [NobyDa](https://github.com/NobyDa/Script/tree/master) 
