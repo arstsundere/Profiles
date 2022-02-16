@@ -16,7 +16,7 @@
     ``` bash
     https://raw.githubusercontent.com/arstsundere/Profiles/master/QuantumultX/Ars_QuantumultX_Final.conf
      
-   - 删除了策略组（个人没需求）等部分，简化
+   - 删除了策略组、签到（个人没需求）等部分，简化代码
 
 ### 感谢:
 
