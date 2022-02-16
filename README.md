@@ -1,5 +1,3 @@
-[![iEwha's GitHub stats](https://github-readme-stats.vercel.app/api?username=iEwha&show_icons=true&count_private=true&icon_color=008080&text_color=00AEFF&bg_color=27282200
-)](https://github.com/iEwha/Profiles)
 
 ## 说明:
 - QuantumultX、Surge，搬运的图标&脚本.
@@ -9,12 +7,9 @@
 
 ## 自用配置：
 
-* *Surge*
-    ``` bash
-    https://raw.githubusercontent.com/iEwha/Profiles/master/Surge/Surge.conf
 * *QuantumultX*
     ``` bash
-    https://raw.githubusercontent.com/iEwha/Profiles/master/QuantumultX/QX_iEwha.conf
+    https://raw.githubusercontent.com/arstsundere/Profiles/master/QuantumultX/Ars_QuantumultX_Final.conf
 
 ## 部分模块和复写：
 
