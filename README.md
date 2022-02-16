@@ -1,4 +1,4 @@
-
+# 自用，fork自iEwha，感谢大佬
 ## 说明:
 - QuantumultX、Surge，搬运的图标&脚本.
 - 所有脚本均来自其他作者库.
